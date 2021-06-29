@@ -211,6 +211,11 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   background-color: rgba(103,115,131,0.8);
 }
 
+.rodape{
+  z-index: -1;
+  position: relative;
+}
+
 .mobile #sceneListToggle {
   width: 50px;
   height: 50px;
@@ -453,7 +458,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 20px;
   height: 20px;
   border-radius: 20px;
-  background-color: rgb(0 71 165 / 65%);
+  background-color: rgb(0 71 165 / 100%);
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
                       border-radius 0.3s ease-in-out 0.5s;
@@ -545,8 +550,6 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   -ms-user-select: text;
   user-select: text;
   font-size: 15px;
-  font-weight: bold;
-  font-family: monospace;
 }
 
 .info-hotspot .info-hotspot-close-wrapper {
