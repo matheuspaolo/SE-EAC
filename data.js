@@ -344,7 +344,7 @@ var APP_DATA = {
           "yaw": -1.0273902751683899,
           "pitch": -0.12732223415664023,
           "title": "<div>TGTF4-01</div>",
-          "text": "<div><img src=\"img/tftf401.jpeg\" alt=\"TGTF4-01\" style='height: 100%; width: 100%; object-fit: contain'></div>"
+          "text": "<div><img src=\"img/tgtf401.jpeg\" alt=\"TGTF4-01\" style='height: 100%; width: 100%; object-fit: contain'></div>"
         },
         {
           "yaw": -0.3062148332387231,
