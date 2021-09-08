@@ -344,7 +344,7 @@ var APP_DATA = {
           "yaw": -1.0273902751683899,
           "pitch": -0.12732223415664023,
           "title": "<div>TGTF4-01</div>",
-          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div>"
+          "text": "<div><img src="tgtf401.jpeg" alt="TGTF4-01"></div>"
         },
         {
           "yaw": -0.3062148332387231,
