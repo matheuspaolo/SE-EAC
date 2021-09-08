@@ -344,19 +344,19 @@ var APP_DATA = {
           "yaw": -1.0273902751683899,
           "pitch": -0.12732223415664023,
           "title": "<div>TGTF4-01</div>",
-          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div><div>- Fabricante: XXX</div><div>- Ano de fabricação: XXX</div>"
+          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div>"
         },
         {
           "yaw": -0.3062148332387231,
           "pitch": -0.1562051366750019,
           "title": "TGTF4-02",
-          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div><div>- Fabricante: XXX</div><div>- Ano de fabricação: XXX</div>"
+          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div>"
         },
         {
           "yaw": 0.9648298835663827,
           "pitch": -0.10198908222691117,
           "title": "TGTF4-03",
-          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div><div>- Fabricante: XXX</div><div>- Ano de fabricação: XXX</div>"
+          "text": "<div>Especificações:</div><div><br></div>- Tensão primária: 69 kV (D)<div>- Tensão secundária 13,8 kV (Yn)<br></div><div>- Potência: 26,6 MVA</div><div><br></div>"
         }
       ]
     },
