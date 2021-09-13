@@ -458,7 +458,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 20px;
   height: 20px;
   border-radius: 20px;
-  background-color: rgb(0 71 165 / 100%);
+  background-color: rgb(0,171,202,255);
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
                       border-radius 0.3s ease-in-out 0.5s;
@@ -559,7 +559,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   height: 20px;
   width: 20px;
   border-top-right-radius: 5px;
-  background-color: rgb(169 14 14);
+  background-color: rgba(244,115,34,255);
   visibility: hidden;
   -ms-transform: perspective(200px) rotateY(90deg);
   -webkit-transform: perspective(200px) rotateY(90deg);
